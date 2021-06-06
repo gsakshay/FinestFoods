@@ -1,0 +1,12 @@
+{
+  "name": "FinestFoods",
+  "displayName": "FinestFoods",
+  "expo": {
+    "name": "FinestFoods",
+    "slug": "FinestFoods",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
