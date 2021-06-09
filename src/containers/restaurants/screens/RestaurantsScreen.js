@@ -1,7 +1,13 @@
 /** @format */
 
 import React, { useState, useEffect } from "react"
-import { StyleSheet, Text, View, SafeAreaView, StatusBar } from "react-native"
+import {
+	StyleSheet,
+	FlatList,
+	View,
+	SafeAreaView,
+	StatusBar,
+} from "react-native"
 import { Searchbar } from "react-native-paper"
 import { RestaurantsInfoCard } from "../components/RestaurantsInfoCard"
 
@@ -17,7 +23,14 @@ export const RestaurantsScreen = () => {
 				/>
 			</View>
 			<View style={styles.listArea}>
-				<RestaurantsInfoCard />
+				<FlatList
+					data={[{ name: 1 }, { name: 2 }, { name: 3 }]}
+					renderItem={RestaurantsInfoCard}
+					keyExtractor={(item) => item.name.toString()}
+					contentContainerStyle={{
+						flexGrow: 1,
+					}}
+				/>
 			</View>
 		</SafeAreaView>
 	)
@@ -32,7 +45,6 @@ const styles = StyleSheet.create({
 		padding: 16,
 	},
 	listArea: {
-		flex: 1,
 		padding: 16,
 	},
 })

@@ -15,6 +15,7 @@ import {
 	RightAligned,
 	WarningText,
 	IconImage,
+	CardSpaced,
 } from "./RestaurantsInfoCardStyles"
 
 export const RestaurantsInfoCard = ({ restaurant = {} }) => {
@@ -31,7 +32,7 @@ export const RestaurantsInfoCard = ({ restaurant = {} }) => {
 	} = restaurant
 	const ratingArray = Array.from(new Array(Math.floor(rating)))
 	return (
-		<Card>
+		<CardSpaced>
 			<Card.Cover key={name} source={{ uri: photos[0] }} />
 			<Card.Content>
 				<Info>
@@ -53,6 +54,6 @@ export const RestaurantsInfoCard = ({ restaurant = {} }) => {
 					<Address>{address}</Address>
 				</Info>
 			</Card.Content>
-		</Card>
+		</CardSpaced>
 	)
 }

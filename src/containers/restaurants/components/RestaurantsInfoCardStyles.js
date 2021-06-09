@@ -2,6 +2,10 @@
 import { Card } from "react-native-paper"
 import styled from "styled-components/native"
 
+export const CardSpaced = styled(Card)`
+	margin-bottom: ${(props) => props.theme.space[3]};
+`
+
 export const Title = styled.Text`
 	color: ${(props) => props.theme.colors.ui.primary};
 	font-family: ${(props) => props.theme.fonts.heading};
