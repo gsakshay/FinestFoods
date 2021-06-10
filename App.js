@@ -48,10 +48,10 @@ const App = () => {
 	}
 	const Tab = createBottomTabNavigator()
 	return (
-		<LocationContextProvider>
-			<RestaurantsContextProvider>
-				<NavigationContainer>
-					<ThemeProvider theme={theme}>
+		<ThemeProvider theme={theme}>
+			<LocationContextProvider>
+				<RestaurantsContextProvider>
+					<NavigationContainer>
 						<Tab.Navigator
 							/* screenOptions={createScreenOptions}
 					tabBarOptions={{
@@ -81,11 +81,12 @@ const App = () => {
 							<Tab.Screen name='Settings' component={RestaurantsScreen} />
 							<Tab.Screen name='Map' component={RestaurantsScreen} />
 						</Tab.Navigator>
-					</ThemeProvider>
-					<ExpoStatusBar style='auto' />
-				</NavigationContainer>
-			</RestaurantsContextProvider>
-		</LocationContextProvider>
+
+						<ExpoStatusBar style='auto' />
+					</NavigationContainer>
+				</RestaurantsContextProvider>
+			</LocationContextProvider>
+		</ThemeProvider>
 	)
 }
 

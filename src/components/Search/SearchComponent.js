@@ -24,7 +24,10 @@ export const Search = () => {
 				placeholder='location'
 				onChangeText={(searchText) => setSearchBar(searchText)}
 				value={searchBar}
-				onSubmitEditing={() => search(searchBar)}
+				onSubmitEditing={() => {
+					console.log("Step zerooo")
+					search(searchBar.toString().toLowerCase())
+				}}
 			/>
 		</SearchComponent>
 	)

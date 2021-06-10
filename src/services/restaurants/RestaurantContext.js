@@ -33,6 +33,7 @@ export const RestaurantsContextProvider = ({ children }) => {
 
 	useEffect(() => {
 		if (location) {
+			console.log("Okay, Third step")
 			setRestaurants([])
 			retriveRestaurants(`${location.lat},${location.lng}`)
 		}
