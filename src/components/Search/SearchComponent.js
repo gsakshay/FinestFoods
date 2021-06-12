@@ -10,13 +10,8 @@ const SearchComponent = styled.View`
 `
 
 export const Search = () => {
-	const { isLoading, error, location, search, keyword } =
-		useContext(LocationContext)
+	const { search, keyword } = useContext(LocationContext)
 	const [searchBar, setSearchBar] = useState(keyword)
-
-	useEffect(() => {
-		search(searchBar)
-	}, [])
 
 	return (
 		<SearchComponent>
@@ -25,8 +20,7 @@ export const Search = () => {
 				onChangeText={(searchText) => setSearchBar(searchText)}
 				value={searchBar}
 				onSubmitEditing={() => {
-					console.log("Step zerooo")
-					search(searchBar.toString().toLowerCase())
+					search(searchBar)
 				}}
 			/>
 		</SearchComponent>

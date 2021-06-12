@@ -13,28 +13,24 @@ export const LocationContextProvider = ({ children }) => {
 	const [error, setError] = useState("")
 
 	const onSearch = (searchKeyword) => {
-		console.log("Okay, First step")
-		if (!searchKeyword.length) {
-			setIsLoading(false)
-			setError("No input")
-		}
-		// console.log(searchKeyword, "location in eng")
 		setIsLoading(true)
 		setKeyword(searchKeyword)
-		locationRequest(searchKeyword)
-			.then(locationTransform)
-			.then((result) => {
-				setIsLoading(false)
-				setLocation(result)
-				console.log("Okay, Second step")
-
-				// console.log(result, "loc in geography")
-			})
-			.catch((err) => {
-				setIsLoading(false)
-				setError(err)
-			})
 	}
+
+	useEffect(() => {
+		if (keyword.length) {
+			locationRequest(keyword.toString().toLowerCase())
+				.then(locationTransform)
+				.then((result) => {
+					setIsLoading(false)
+					setLocation(result)
+				})
+				.catch((err) => {
+					setIsLoading(false)
+					setError(err)
+				})
+		}
+	}, [keyword])
 
 	return (
 		<LocationContext.Provider
