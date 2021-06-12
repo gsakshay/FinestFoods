@@ -9,12 +9,14 @@ import {
 	StatusBar,
 	TouchableOpacity,
 } from "react-native"
-import { Searchbar, ActivityIndicator, Colors } from "react-native-paper"
+import { ActivityIndicator, Colors } from "react-native-paper"
 import { RestaurantsInfoCard } from "../components/RestaurantsInfoCard"
 import { RestaurantsContext } from "../../../services/restaurants/RestaurantContext"
 import styled from "styled-components/native"
 import { Search } from "../../../components/Search/SearchComponent"
 import { LocationContext } from "../../../services/location/LocationContext"
+import { FavoritesBar } from "../../../components/favorites/FavoritesBar"
+import { FavoritesContext } from "../../../services/favorites/FavoritesContext"
 
 const LoadingScreen = styled.View`
 	position: absolute;
@@ -29,9 +31,21 @@ export const RestaurantsScreen = ({ navigation }) => {
 	const { restaurants, isLoading, error } = useContext(RestaurantsContext)
 	const { location } = useContext(LocationContext)
 
+	const { favorites } = useContext(FavoritesContext)
+
+	const [favoritesToggled, setFavoritesToggled] = useState(false)
+
 	return (
 		<SafeAreaView style={styles.container}>
-			<Search />
+			<Search
+				favoritesToggled={favoritesToggled}
+				setFavoritesToggled={setFavoritesToggled}
+			/>
+			{favoritesToggled ? (
+				<FavoritesBar
+					favorites={favorites}
+					onNavigate={navigation.navigate}></FavoritesBar>
+			) : null}
 			{isLoading ? (
 				<LoadingScreen>
 					<Loading size='large' animating={true} color={Colors.red400} />

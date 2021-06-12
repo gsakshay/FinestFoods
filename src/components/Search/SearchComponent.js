@@ -9,13 +9,19 @@ const SearchComponent = styled.View`
 	padding: 16px;
 `
 
-export const Search = () => {
+export const Search = ({ favoritesToggled, setFavoritesToggled }) => {
 	const { search, keyword } = useContext(LocationContext)
 	const [searchBar, setSearchBar] = useState(keyword)
+
+	useEffect(() => {
+		setSearchBar(keyword)
+	}, [keyword])
 
 	return (
 		<SearchComponent>
 			<Searchbar
+				icon={favoritesToggled ? "heart" : "heart-outline"}
+				onIconPress={() => setFavoritesToggled(!favoritesToggled)}
 				placeholder='location'
 				onChangeText={(searchText) => setSearchBar(searchText)}
 				value={searchBar}

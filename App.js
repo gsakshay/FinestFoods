@@ -12,6 +12,7 @@ import { useFonts as useLato, Lato_400Regular } from "@expo-google-fonts/lato"
 import "react-native-gesture-handler"
 import { RestaurantsContextProvider } from "./src/services/restaurants/RestaurantContext"
 import { LocationContextProvider } from "./src/services/location/LocationContext"
+import { FavoritesContextProvider } from "./src/services/favorites/FavoritesContext"
 import { Navigation } from "./src/infrastructure/navigation"
 
 const App = () => {
@@ -27,11 +28,13 @@ const App = () => {
 	return (
 		<>
 			<ThemeProvider theme={theme}>
-				<LocationContextProvider>
-					<RestaurantsContextProvider>
-						<Navigation />
-					</RestaurantsContextProvider>
-				</LocationContextProvider>
+				<FavoritesContextProvider>
+					<LocationContextProvider>
+						<RestaurantsContextProvider>
+							<Navigation />
+						</RestaurantsContextProvider>
+					</LocationContextProvider>
+				</FavoritesContextProvider>
 			</ThemeProvider>
 			<ExpoStatusBar style='auto' />
 		</>
