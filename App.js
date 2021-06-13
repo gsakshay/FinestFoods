@@ -25,7 +25,14 @@ import "firebase/auth"
 //import "firebase/storage";
 
 // Initialize Firebase
-
+const firebaseConfig = {
+	apiKey: "AIzaSyDGVwAV1adqKRsGFqC2K0Mxix875x7HJRM",
+	authDomain: "finestfoods-e46ac.firebaseapp.com",
+	projectId: "finestfoods-e46ac",
+	storageBucket: "finestfoods-e46ac.appspot.com",
+	messagingSenderId: "317063880141",
+	appId: "1:317063880141:web:7ba9e7c8eff3d423f57884",
+}
 if (!firebase.apps.length) {
 	firebase.initializeApp(firebaseConfig)
 }
@@ -44,13 +51,7 @@ const App = () => {
 		<>
 			<ThemeProvider theme={theme}>
 				<AuthenticationContextProvider>
-					<FavoritesContextProvider>
-						<LocationContextProvider>
-							<RestaurantsContextProvider>
-								<Navigation />
-							</RestaurantsContextProvider>
-						</LocationContextProvider>
-					</FavoritesContextProvider>
+					<Navigation />
 				</AuthenticationContextProvider>
 			</ThemeProvider>
 			<ExpoStatusBar style='auto' />

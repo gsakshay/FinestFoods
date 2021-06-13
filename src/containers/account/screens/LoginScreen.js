@@ -1,8 +1,9 @@
 /** @format */
 
 import React, { useState, useContext } from "react"
-import { Text } from "../../../components/typography/text"
+import { ActivityIndicator, Colors } from "react-native-paper"
 
+import { Text } from "../../../components/typography/text"
 import { AuthenticationContext } from "../../../services/authentication/AuthenticationContext"
 import {
 	AccountBackground,
@@ -16,7 +17,7 @@ export const LoginScreen = ({ navigation }) => {
 	const [email, setEmail] = useState("")
 	const [password, setPassword] = useState("")
 
-	const { onLogin, error } = useContext(AuthenticationContext)
+	const { onLogin, error, isLoading } = useContext(AuthenticationContext)
 
 	return (
 		<AccountBackground>
@@ -42,12 +43,16 @@ export const LoginScreen = ({ navigation }) => {
 						<Text variant='error'>{error}</Text>
 					</ErrorContainer>
 				)}
-				<AuthButton
-					icon='lock-open-outline'
-					mode='contained'
-					onPress={() => onLogin(email, password)}>
-					Login
-				</AuthButton>
+				{isLoading ? (
+					<ActivityIndicator animating={true} color={Colors.blue300} />
+				) : (
+					<AuthButton
+						icon='lock-open-outline'
+						mode='contained'
+						onPress={() => onLogin(email, password)}>
+						Login
+					</AuthButton>
+				)}
 			</AccountContainer>
 			<AuthButton mode='contained' onPress={() => navigation.goBack()}>
 				Back

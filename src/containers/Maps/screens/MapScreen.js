@@ -6,7 +6,7 @@ import { StyleSheet, Text, View, Dimensions } from "react-native"
 export const MapScreen = () => {
 	return (
 		<View style={styles.container}>
-			<Text>Map</Text>
+			<Text>Package is not working</Text>
 		</View>
 	)
 }

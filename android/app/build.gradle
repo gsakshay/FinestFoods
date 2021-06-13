@@ -196,6 +196,9 @@ android {
 
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
+    // lottie
+    implementation project(':lottie-react-native')
+    implementation "com.airbnb.android:lottie:$lottieVersion"
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"  // From node_modules
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"

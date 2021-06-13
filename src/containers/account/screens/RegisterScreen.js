@@ -1,6 +1,8 @@
 /** @format */
 
 import React, { useState, useContext } from "react"
+import { ActivityIndicator, Colors } from "react-native-paper"
+
 import { Text } from "../../../components/typography/text"
 import { AuthenticationContext } from "../../../services/authentication/AuthenticationContext"
 
@@ -17,7 +19,7 @@ export const RegisterScreen = ({ navigation }) => {
 	const [password, setPassword] = useState("")
 	const [confirmPassword, setConfirmPassword] = useState("")
 
-	const { onRegister, error } = useContext(AuthenticationContext)
+	const { onRegister, error, isLoading } = useContext(AuthenticationContext)
 
 	return (
 		<AccountBackground>
@@ -51,12 +53,16 @@ export const RegisterScreen = ({ navigation }) => {
 						<Text variant='error'>{error}</Text>
 					</ErrorContainer>
 				)}
-				<AuthButton
-					icon='lock-open-outline'
-					mode='contained'
-					onPress={() => onRegister(email, password, confirmPassword)}>
-					Register
-				</AuthButton>
+				{!isLoading ? (
+					<AuthButton
+						icon='lock-open-outline'
+						mode='contained'
+						onPress={() => onRegister(email, password, confirmPassword)}>
+						Register
+					</AuthButton>
+				) : (
+					<ActivityIndicator animating={true} color={Colors.green300} />
+				)}
 			</AccountContainer>
 			<AuthButton mode='contained' onPress={() => navigation.goBack()}>
 				Back
