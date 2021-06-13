@@ -5,6 +5,8 @@ export const colors = {
 		primary: "#2182BD",
 		secondary: "#5282BD",
 		muted: "#C6DAF7",
+		button: "#34656d",
+		appTitle: "#e4fbff",
 	},
 	ui: {
 		primary: "#262626",

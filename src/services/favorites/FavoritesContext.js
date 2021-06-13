@@ -13,7 +13,7 @@ export const FavoritesContextProvider = ({ children }) => {
 			const jsonValue = JSON.stringify(favorites)
 			await AsyncStorage.setItem("localFavorites", jsonValue)
 		} catch (e) {
-			console.log(e)
+			console.log(e.toString())
 		}
 	}
 
@@ -24,7 +24,7 @@ export const FavoritesContextProvider = ({ children }) => {
 				setFavorites(JSON.parse(jsonValue))
 			}
 		} catch (e) {
-			console.log(e)
+			console.log(e.toString())
 		}
 	}
 

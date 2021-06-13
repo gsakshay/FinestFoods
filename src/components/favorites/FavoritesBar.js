@@ -3,7 +3,7 @@
 import React from "react"
 import { ScrollView, Text, TouchableOpacity, View } from "react-native"
 import styled from "styled-components/native"
-import { CompactRestaurantInfo } from "../restaurant/FavoriteRestaurant"
+import { CompactRestaurantInfo } from "../restaurant/CompactRestaurant"
 
 const FavouritesWrapper = styled.View`
 	padding: 16px;

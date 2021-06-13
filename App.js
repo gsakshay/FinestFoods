@@ -13,7 +13,22 @@ import "react-native-gesture-handler"
 import { RestaurantsContextProvider } from "./src/services/restaurants/RestaurantContext"
 import { LocationContextProvider } from "./src/services/location/LocationContext"
 import { FavoritesContextProvider } from "./src/services/favorites/FavoritesContext"
+import { AuthenticationContextProvider } from "./src/services/authentication/AuthenticationContext"
 import { Navigation } from "./src/infrastructure/navigation"
+import firebase from "firebase/app"
+
+// Optionally import the services that you want to use
+import "firebase/auth"
+//import "firebase/database";
+//import "firebase/firestore";
+//import "firebase/functions";
+//import "firebase/storage";
+
+// Initialize Firebase
+
+if (!firebase.apps.length) {
+	firebase.initializeApp(firebaseConfig)
+}
 
 const App = () => {
 	const [oswaldLoaded] = useOswald({
@@ -28,13 +43,15 @@ const App = () => {
 	return (
 		<>
 			<ThemeProvider theme={theme}>
-				<FavoritesContextProvider>
-					<LocationContextProvider>
-						<RestaurantsContextProvider>
-							<Navigation />
-						</RestaurantsContextProvider>
-					</LocationContextProvider>
-				</FavoritesContextProvider>
+				<AuthenticationContextProvider>
+					<FavoritesContextProvider>
+						<LocationContextProvider>
+							<RestaurantsContextProvider>
+								<Navigation />
+							</RestaurantsContextProvider>
+						</LocationContextProvider>
+					</FavoritesContextProvider>
+				</AuthenticationContextProvider>
 			</ThemeProvider>
 			<ExpoStatusBar style='auto' />
 		</>
