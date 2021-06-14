@@ -43,8 +43,8 @@ export const SettingsScreen = ({ navigation }) => {
 		<SafeArea>
 			<AvatarContainer
 				onPress={() =>
-					navigation.navigate("Camera", {
-						user,
+					navigation.navigate("Profile", {
+						user: user.uid,
 					})
 				}>
 				{profilePic ? (

@@ -1,7 +1,6 @@
 /** @format */
 
 import React, { useEffect } from "react"
-import { View, Text, TouchableOpacity } from "react-native"
 import styled from "styled-components/native"
 import ImagePicker from "react-native-image-crop-picker"
 import { Button } from "react-native-paper"
@@ -19,6 +18,7 @@ export const SettingsButton = styled(Button).attrs({
 })`
 	padding: ${(props) => props.theme.space[2]};
 	margin: ${(props) => props.theme.space[2]};
+	width: 200px;
 `
 
 export const CameraScreen = ({ route, navigation }) => {
@@ -31,7 +31,7 @@ export const CameraScreen = ({ route, navigation }) => {
 				height: 400,
 				cropping: true,
 			})
-			await AsyncStorage.setItem(`${user.uid}-photo`, image.path)
+			await AsyncStorage.setItem(`${user}-photo`, image.path)
 			navigation.goBack()
 		} catch (e) {
 			console.log(e)
@@ -45,7 +45,7 @@ export const CameraScreen = ({ route, navigation }) => {
 				height: 400,
 				cropping: true,
 			})
-			await AsyncStorage.setItem(`${user.uid}-photo`, image.path)
+			await AsyncStorage.setItem(`${user}-photo`, image.path)
 			navigation.goBack()
 		} catch (e) {
 			console.log(e)
@@ -53,23 +53,18 @@ export const CameraScreen = ({ route, navigation }) => {
 	}
 	return (
 		<CameraSettings>
-			<TouchableOpacity onPress={openCamera}>
-				<SettingsButton
-					icon='camera'
-					mode='contained'
-					onPress={() => openCamera}>
-					Open Camera
-				</SettingsButton>
-				<SettingsButton icon='file-search' mode='contained' onPress={openFiles}>
-					Select from files
-				</SettingsButton>
-				<SettingsButton
-					icon='cancel'
-					mode='contained'
-					onPress={() => navigation.goBack()}>
-					Cancel
-				</SettingsButton>
-			</TouchableOpacity>
+			<SettingsButton icon='camera' mode='contained' onPress={openCamera}>
+				Open Camera
+			</SettingsButton>
+			<SettingsButton icon='file-search' mode='contained' onPress={openFiles}>
+				Select from files
+			</SettingsButton>
+			<SettingsButton
+				icon='cancel'
+				mode='contained'
+				onPress={() => navigation.goBack()}>
+				Cancel
+			</SettingsButton>
 		</CameraSettings>
 	)
 }
