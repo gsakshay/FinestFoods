@@ -2,7 +2,7 @@
 
 import { StatusBar as ExpoStatusBar } from "expo-status-bar"
 import React, { useState, useEffect } from "react"
-import { ThemeProvider, View, Text } from "styled-components/native"
+import { ThemeProvider } from "styled-components/native"
 import { theme } from "./src/infrastructure/theme/index"
 import {
 	useFonts as useOswald,
@@ -10,15 +10,12 @@ import {
 } from "@expo-google-fonts/oswald"
 import { useFonts as useLato, Lato_400Regular } from "@expo-google-fonts/lato"
 import "react-native-gesture-handler"
-import { RestaurantsContextProvider } from "./src/services/restaurants/RestaurantContext"
-import { LocationContextProvider } from "./src/services/location/LocationContext"
-import { FavoritesContextProvider } from "./src/services/favorites/FavoritesContext"
 import { AuthenticationContextProvider } from "./src/services/authentication/AuthenticationContext"
 import { Navigation } from "./src/infrastructure/navigation"
 import firebase from "firebase/app"
 
 // Optionally import the services that you want to use
-import "firebase/auth"
+//import "firebase/auth"
 //import "firebase/database";
 //import "firebase/firestore";
 //import "firebase/functions";

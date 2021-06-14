@@ -13,7 +13,7 @@ import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.finestfoods.generated.BasePackageList;
 
-import com.airbnb.android.react.lottie.LottiePackage;
+// import com.airbnb.android.react.lottie.LottiePackage;
 
 import org.unimodules.adapters.react.ReactAdapterPackage;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;
@@ -49,7 +49,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       List<ReactPackage> packages = new PackageList(this).getPackages();
       packages.add(new ModuleRegistryAdapter(mModuleRegistryProvider));
-      packages.add(new LottiePackage());
+      //packages.add(new LottiePackage());
       return packages;
     }
 
