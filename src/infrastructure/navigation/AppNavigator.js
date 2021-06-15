@@ -3,12 +3,10 @@
 import React, { useContext } from "react"
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs"
 import { Ionicons } from "@expo/vector-icons"
-import { Text } from "react-native"
 
 import { RestaurantNavigator } from "./RestaurantNavigator"
 import { MapScreen } from "../../containers/Maps/screens/MapScreen"
 import { SettingsNavigator } from "./SettingNavigator"
-import { SafeArea } from "../../components/SafeAreaView"
 
 import { FavoritesContextProvider } from "../../services/favorites/FavoritesContext"
 import { RestaurantsContextProvider } from "../../services/restaurants/RestaurantContext"
@@ -59,7 +57,7 @@ export const AppNavigator = () => (
 						inactiveTintColor: "gray",
 					}}>
 					<Tab.Screen name='Restaurants' component={RestaurantNavigator} />
-					<Tab.Screen name='Map' component={MapScreen} />
+					{/* <Tab.Screen name='Map' component={MapScreen} /> */}
 					<Tab.Screen name='Settings' component={SettingsNavigator} />
 				</Tab.Navigator>
 			</RestaurantsContextProvider>
