@@ -2,6 +2,7 @@
 
 import React, { useState, useContext } from "react"
 import { ActivityIndicator, Colors } from "react-native-paper"
+import { useFocusEffect } from "@react-navigation/native"
 
 import { Text } from "../../../components/typography/text"
 import { AuthenticationContext } from "../../../services/authentication/AuthenticationContext"
@@ -19,7 +20,15 @@ export const RegisterScreen = ({ navigation }) => {
 	const [password, setPassword] = useState("")
 	const [confirmPassword, setConfirmPassword] = useState("")
 
-	const { onRegister, error, isLoading } = useContext(AuthenticationContext)
+	const { onRegister, error, isLoading, clearError } = useContext(
+		AuthenticationContext
+	)
+
+	useFocusEffect(
+		React.useCallback(() => {
+			clearError()
+		}, [])
+	)
 
 	return (
 		<AccountBackground>

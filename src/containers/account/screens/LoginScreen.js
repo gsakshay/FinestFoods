@@ -2,6 +2,7 @@
 
 import React, { useState, useContext } from "react"
 import { ActivityIndicator, Colors } from "react-native-paper"
+import { useFocusEffect } from "@react-navigation/native"
 
 import { Text } from "../../../components/typography/text"
 import { AuthenticationContext } from "../../../services/authentication/AuthenticationContext"
@@ -17,7 +18,15 @@ export const LoginScreen = ({ navigation }) => {
 	const [email, setEmail] = useState("")
 	const [password, setPassword] = useState("")
 
-	const { onLogin, error, isLoading } = useContext(AuthenticationContext)
+	const { onLogin, error, isLoading, clearError } = useContext(
+		AuthenticationContext
+	)
+
+	useFocusEffect(
+		React.useCallback(() => {
+			clearError()
+		}, [])
+	)
 
 	return (
 		<AccountBackground>
