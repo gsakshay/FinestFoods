@@ -1,0 +1,846 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0834965,
+                    "lng": 77.4948764
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0847575802915,
+                        "lng": 77.4961707302915
+                    },
+                    "southwest": {
+                        "lat": 13.0820596197085,
+                        "lng": 77.49347276970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "CARBAR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg"
+            ],
+            "place_id": "ChIJ-wlPGRMjrjsR6D3Tx3vSZk4",
+            "plus_code": {
+                "compound_code": "3FMV+9X Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FMV+9X"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJ-wlPGRMjrjsR6D3Tx3vSZk4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3069,
+            "vicinity": "Acharya Doctor Sarvepalli Radhakrishnan Road, Thammenahalli Village, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0759006,
+                    "lng": 77.49799879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0772505802915,
+                        "lng": 77.49936578029153
+                    },
+                    "southwest": {
+                        "lat": 13.0745526197085,
+                        "lng": 77.4966678197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "name": "Music Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-600x750.jpg"
+            ],
+            "place_id": "ChIJdd-m8BUjrjsRsXD5Oq6L_VA",
+            "plus_code": {
+                "compound_code": "3FGX+95 Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FGX+95"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJdd-m8BUjrjsRsXD5Oq6L_VA",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 666,
+            "vicinity": "above Chimney Hills bar, No 32/125A, 3rd floor, Acharya College Raod , Chikkabanavara, above Chimney Hills bar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0745399,
+                    "lng": 77.5015414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0759832302915,
+                        "lng": 77.5030472802915
+                    },
+                    "southwest": {
+                        "lat": 13.0732852697085,
+                        "lng": 77.50034931970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Five Star Chicken",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/02/pizza-ready-for-baking-600x400.jpg"
+            ],
+            "place_id": "ChIJc2QHnz0jrjsRZseCyxsVt4Y",
+            "plus_code": {
+                "compound_code": "3GF2+RJ Bengaluru, Karnataka, India",
+                "global_code": "7J5V3GF2+RJ"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJc2QHnz0jrjsRZseCyxsVt4Y",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "#5, Abdul sat tar saab building, Next to Red hills high school, Acharya college main road, Hesarghatta Main Road, Thammenahalli Village, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0875222,
+                    "lng": 77.49513069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0889041802915,
+                        "lng": 77.4965034302915
+                    },
+                    "southwest": {
+                        "lat": 13.0862062197085,
+                        "lng": 77.49380546970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Himalaya Dhaba Chikkabanavara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table-600x400.jpg"
+            ],
+            "place_id": "ChIJtfUJbw0jrjsR8CsYk-xMU9c",
+            "plus_code": {
+                "compound_code": "3FQW+23 Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FQW+23"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJtfUJbw0jrjsR8CsYk-xMU9c",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1540,
+            "vicinity": "Bus Stop, Dwaraka, Hesarghatta Main Road, Chikkabanavara, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0745221,
+                    "lng": 77.5040435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0758825802915,
+                        "lng": 77.5053774302915
+                    },
+                    "southwest": {
+                        "lat": 13.0731846197085,
+                        "lng": 77.5026794697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "name": "IRCTC Food Track",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJX03LVD0jrjsRCLk25Ysa310",
+            "plus_code": {
+                "compound_code": "3GF3+RJ Guddahalli, Karnataka, India",
+                "global_code": "7J5V3GF3+RJ"
+            },
+            "price_level": 2,
+            "rating": 3.2,
+            "reference": "ChIJX03LVD0jrjsRCLk25Ysa310",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "23, Hesarghatta Main Road, Geleyara Balaga Layout, Jalahalli West, Guddahalli",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-baking-600x750.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0841447,
+                    "lng": 77.4867034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0855264302915,
+                        "lng": 77.48805113029151
+                    },
+                    "southwest": {
+                        "lat": 13.08282846970849,
+                        "lng": 77.48535316970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Neelu Darjeeling Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-600x750.jpg"
+            ],
+            "place_id": "ChIJoWjSem4jrjsRqaV-zKseUnc",
+            "plus_code": {
+                "compound_code": "3FMP+MM Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FMP+MM"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJoWjSem4jrjsRqaV-zKseUnc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Acharya Doctor Sarvepalli Radhakrishnan Road, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0834066,
+                    "lng": 77.4842385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0847563302915,
+                        "lng": 77.48562673029151
+                    },
+                    "southwest": {
+                        "lat": 13.0820583697085,
+                        "lng": 77.4829287697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Five Star Chicken",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-baking-600x750.jpg"
+            ],
+            "place_id": "ChIJa6R5AG8jrjsR3blAkJHjOLA",
+            "plus_code": {
+                "compound_code": "3FMM+9M Soladevanahalli, Karnataka, India",
+                "global_code": "7J5V3FMM+9M"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJa6R5AG8jrjsR3blAkJHjOLA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "opp. Acharya College, No.4, 5th Cross Road, Thammenahalli Village, Soladevanahalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0828825,
+                    "lng": 77.4838716
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0842525802915,
+                        "lng": 77.4852244302915
+                    },
+                    "southwest": {
+                        "lat": 13.0815546197085,
+                        "lng": 77.48252646970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Acharya",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJuY2RBW8jrjsRtKdDBHcxYc0",
+            "plus_code": {
+                "compound_code": "3FMM+5G Soladevanahalli, Karnataka, India",
+                "global_code": "7J5V3FMM+5G"
+            },
+            "rating": 3.3,
+            "reference": "ChIJuY2RBW8jrjsRtKdDBHcxYc0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Thammenahalli Village, Soladevanahalli",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-600x750.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0837447,
+                    "lng": 77.48367619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0851111302915,
+                        "lng": 77.4850376802915
+                    },
+                    "southwest": {
+                        "lat": 13.0824131697085,
+                        "lng": 77.48233971970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Mag Rolls",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-baking-600x750.jpg"
+            ],
+            "place_id": "ChIJ7bHPpW8jrjsRVuDF5jN28Pc",
+            "plus_code": {
+                "compound_code": "3FMM+FF Soladevanahalli, Karnataka, India",
+                "global_code": "7J5V3FMM+FF"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ7bHPpW8jrjsRVuDF5jN28Pc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Soladevanahalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0800846,
+                    "lng": 77.49661979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0814233302915,
+                        "lng": 77.4979381802915
+                    },
+                    "southwest": {
+                        "lat": 13.0787253697085,
+                        "lng": 77.49524021970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "ಶ್ರೀ ಜಾಲಗೇರಮ್ಮ ಕಬ್ಬಬ್ ಕಾರ್ನರ್",
+            "place_id": "ChIJAezWVYMjrjsR1y8cN9UgBL8",
+            "plus_code": {
+                "compound_code": "3FJW+2J Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FJW+2J"
+            },
+            "reference": "ChIJAezWVYMjrjsR1y8cN9UgBL8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "jalagereamma temple min rod gannapathi nagr, Acharya Doctor Sarvepalli Radhakrishnan Road, Thammenahalli Village, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0805589,
+                    "lng": 77.4964026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0818907302915,
+                        "lng": 77.4977576802915
+                    },
+                    "southwest": {
+                        "lat": 13.0791927697085,
+                        "lng": 77.4950597197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Thayamma Bhogeshappa Badavane",
+            "place_id": "ChIJXz7BO0UjrjsRoAjxoyfE2eU",
+            "plus_code": {
+                "compound_code": "3FJW+6H Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FJW+6H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJXz7BO0UjrjsRoAjxoyfE2eU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Thammenahalli Village, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table-600x400.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.079628,
+                    "lng": 77.49703269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0809704802915,
+                        "lng": 77.4983830802915
+                    },
+                    "southwest": {
+                        "lat": 13.0782725197085,
+                        "lng": 77.4956851197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Tender fresh chicken",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-600x750.jpg"
+            ],
+            "place_id": "ChIJKfpch60jrjsRtWUB4ZyfWSg",
+            "plus_code": {
+                "compound_code": "3FHW+VR Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+VR"
+            },
+            "rating": 4.7,
+            "reference": "ChIJKfpch60jrjsRtWUB4ZyfWSg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "next to Krishna college, 45 acharaya college main road, next to Krishna college, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.079628,
+                    "lng": 77.49703269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0809704802915,
+                        "lng": 77.4983830802915
+                    },
+                    "southwest": {
+                        "lat": 13.0782725197085,
+                        "lng": 77.4956851197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Eksha Biryani Adda",
+            "place_id": "ChIJRcV02BkjrjsRi5KzH6--gnw",
+            "plus_code": {
+                "compound_code": "3FHW+VR Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+VR"
+            },
+            "rating": 5,
+            "reference": "ChIJRcV02BkjrjsRi5KzH6--gnw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Police Station, #10/3 Lakshmipura main Road Abbigere, near Gangamma Gudi, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-baking-600x750.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0793815,
+                    "lng": 77.4968506
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0807408302915,
+                        "lng": 77.4982300302915
+                    },
+                    "southwest": {
+                        "lat": 13.0780428697085,
+                        "lng": 77.49553206970847
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Bamboo House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table-600x400.jpg"
+            ],
+            "place_id": "ChIJH8GGhHEjrjsRHFW2wWPm1Ts",
+            "plus_code": {
+                "compound_code": "3FHW+QP Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+QP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJH8GGhHEjrjsRHFW2wWPm1Ts",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "#54/1, Acharya College Road, Chikkabanavara, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0793507,
+                    "lng": 77.49681670000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0807168302915,
+                        "lng": 77.4982162302915
+                    },
+                    "southwest": {
+                        "lat": 13.0780188697085,
+                        "lng": 77.4955182697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Grasa Graha (Freedom To Eat)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table-600x400.jpg"
+            ],
+            "place_id": "ChIJk3GYRBQjrjsRX6ZlEuelBH0",
+            "plus_code": {
+                "compound_code": "3FHW+PP Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+PP"
+            },
+            "rating": 5,
+            "reference": "ChIJk3GYRBQjrjsRX6ZlEuelBH0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Acharya Doctor Sarvepalli Radhakrishnan Road, Thammenahalli Village, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0791443,
+                    "lng": 77.4970491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0804899302915,
+                        "lng": 77.49838833029152
+                    },
+                    "southwest": {
+                        "lat": 13.0777919697085,
+                        "lng": 77.49569036970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "MashahAllah Chicken Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg"
+            ],
+            "place_id": "ChIJe-fnRRQjrjsRkJ-mhDXabWc",
+            "plus_code": {
+                "compound_code": "3FHW+MR Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+MR"
+            },
+            "rating": 2.5,
+            "reference": "ChIJe-fnRRQjrjsRkJ-mhDXabWc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Way to Acharya College of Nursing, Ganapathi Nagar, Thammenahalli Village, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0788936,
+                    "lng": 77.4964826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.08024258029151,
+                        "lng": 77.4978315802915
+                    },
+                    "southwest": {
+                        "lat": 13.0775446197085,
+                        "lng": 77.4951336197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "ಮಾರುತಿ ಶ್ರೀ ಜಲಗೇರಮ್ಮ ಆಟೋ ನಿಲ್ದಾಣ",
+            "place_id": "ChIJOSxzwkQjrjsR3t8KSyoiO08",
+            "plus_code": {
+                "compound_code": "3FHW+HH Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+HH"
+            },
+            "reference": "ChIJOSxzwkQjrjsR3t8KSyoiO08",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalagereamma Temple Main Road, Thammenahalli Village, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/02/pizza-ready-for-baking-600x400.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0811716,
+                    "lng": 77.49610179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0825564802915,
+                        "lng": 77.49744073029149
+                    },
+                    "southwest": {
+                        "lat": 13.0798585197085,
+                        "lng": 77.49474276970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Chicken and Fish Fry",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg"
+            ],
+            "place_id": "ChIJoX_zVP8jrjsRprBECFqCo-o",
+            "plus_code": {
+                "compound_code": "3FJW+FC Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FJW+FC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJoX_zVP8jrjsRprBECFqCo-o",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Thammenahalli Village, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.078944,
+                    "lng": 77.4960853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0803241802915,
+                        "lng": 77.4974385802915
+                    },
+                    "southwest": {
+                        "lat": 13.0776262197085,
+                        "lng": 77.4947406197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "ಅದಿಶಕ್ತಿ ಜಲಗೇರಮ್ಮ ದೇವಸ್ಥಾನ ರಸ್ತೆ",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2020/08/detail-of-pavlova-strawberry-piece-of-cake-600x800.jpg"
+            ],
+            "place_id": "ChIJw2nLJBsjrjsRmtKiMv8QukQ",
+            "plus_code": {
+                "compound_code": "3FHW+HC Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FHW+HC"
+            },
+            "reference": "ChIJw2nLJBsjrjsRmtKiMv8QukQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jalageramma Temple Road, Thammenahalli Village, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.081312,
+                    "lng": 77.4961337
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.0826635302915,
+                        "lng": 77.4974906802915
+                    },
+                    "southwest": {
+                        "lat": 13.0799655697085,
+                        "lng": 77.49479271970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Veeresh 🥚Egg Rice and kebab point",
+            "place_id": "ChIJ2-xe-qojrjsRzycxABDqvfY",
+            "plus_code": {
+                "compound_code": "3FJW+GF Bengaluru, Karnataka, India",
+                "global_code": "7J5V3FJW+GF"
+            },
+            "reference": "ChIJ2-xe-qojrjsRzycxABDqvfY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Acharya Doctor Sarvepalli Radhakrishnan Road, Thammenahalli Village, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2020/08/detail-of-pavlova-strawberry-piece-of-cake-600x800.jpg"
+            ]
+        }
+    ]
+}

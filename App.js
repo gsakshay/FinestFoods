@@ -13,13 +13,7 @@ import "react-native-gesture-handler"
 import { AuthenticationContextProvider } from "./src/services/authentication/AuthenticationContext"
 import { Navigation } from "./src/infrastructure/navigation"
 import firebase from "firebase/app"
-
-// Optionally import the services that you want to use
-//import "firebase/auth"
-//import "firebase/database";
-//import "firebase/firestore";
-//import "firebase/functions";
-//import "firebase/storage";
+import RNBootSplash from "react-native-bootsplash"
 
 // Initialize Firebase
 
@@ -34,6 +28,16 @@ const App = () => {
 	const [latoLoaded] = useLato({
 		Lato_400Regular,
 	})
+
+	useEffect(() => {
+		setTimeout(() => {
+			RNBootSplash.hide({ fade: true })
+		}, 1000)
+		setTimeout(() => {
+			RNBootSplash.hide() // immediate
+		}, 1500)
+	}, [])
+
 	if (!oswaldLoaded || !latoLoaded) {
 		return null
 	}

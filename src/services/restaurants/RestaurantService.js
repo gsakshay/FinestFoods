@@ -19,7 +19,9 @@ export const restaurantsTransform = ({ results }) => {
 	return camelize(mappedResults)
 }
 
-export const restaurantRequest = (location = "37.7749295,-122.4194155") => {
+export const restaurantRequest = (
+	location = "13.0800846,77.49661979999999"
+) => {
 	return new Promise((resolve, reject) => {
 		const mock = mocks[location]
 		if (!mock) {
@@ -28,8 +30,3 @@ export const restaurantRequest = (location = "37.7749295,-122.4194155") => {
 		resolve(mock)
 	})
 }
-
-/* restaurantRequest()
-	.then((data) => restaurantsTransform(data))
-	.then((data) => console.log(data + "aaa"))
-	.catch((error) => console.log(error)) */

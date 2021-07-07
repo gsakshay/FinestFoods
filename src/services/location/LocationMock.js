@@ -81,4 +81,60 @@ export const locations = {
 			},
 		],
 	},
+	malleshwaram: {
+		results: [
+			{
+				geometry: {
+					location: {
+						lat: 13.0055113,
+						lng: 77.5692358,
+					},
+					location_type: "APPROXIMATE",
+					viewport: {
+						northeast: {
+							lat: 13.0220117,
+							lng: 77.57890189999999,
+						},
+						southwest: {
+							lat: 12.9933828,
+							lng: 77.5557329,
+						},
+					},
+				},
+			},
+		],
+	},
+	"acharya doctor sarvepalli radhakrishnan rd": {
+		results: [
+			{
+				geometry: {
+					bounds: {
+						northeast: {
+							lat: 13.0862084,
+							lng: 77.5031764,
+						},
+						southwest: {
+							lat: 13.072914,
+							lng: 77.4816693,
+						},
+					},
+					location: {
+						lat: 13.0800846,
+						lng: 77.49661979999999,
+					},
+					location_type: "GEOMETRIC_CENTER",
+					viewport: {
+						northeast: {
+							lat: 13.0862084,
+							lng: 77.5031764,
+						},
+						southwest: {
+							lat: 13.072914,
+							lng: 77.4816693,
+						},
+					},
+				},
+			},
+		],
+	},
 }

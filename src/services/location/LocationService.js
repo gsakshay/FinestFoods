@@ -1,6 +1,7 @@
 /** @format */
 
 import camelize from "camelize"
+const axios = require("axios")
 
 import { locations } from "./LocationMock"
 

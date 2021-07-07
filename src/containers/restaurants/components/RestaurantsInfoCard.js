@@ -23,7 +23,7 @@ export const RestaurantsInfoCard = ({ restaurant = {} }) => {
 		name = "Restaurant Name",
 		icon = "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
 		photos = [
-			"https://media-cdn.tripadvisor.com/media/photo-s/1b/67/cc/f8/chestnut-restaurant.jpg",
+			"https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg",
 		],
 		address = "Some address of some state and country",
 		isOpenNow = true,
@@ -36,7 +36,12 @@ export const RestaurantsInfoCard = ({ restaurant = {} }) => {
 		<CardSpaced>
 			<View>
 				<Favourite restaurant={restaurant} />
-				<Card.Cover key={name} source={{ uri: photos[0] }} />
+				<Card.Cover
+					key={name}
+					source={{
+						uri: photos[0],
+					}}
+				/>
 			</View>
 			<Card.Content>
 				<Info>
