@@ -23,7 +23,6 @@ export const SettingsButton = styled(Button).attrs({
 
 export const CameraScreen = ({ route, navigation }) => {
 	const { user } = route.params
-	console.log(navigation)
 	const openCamera = async () => {
 		try {
 			const image = await ImagePicker.openCamera({

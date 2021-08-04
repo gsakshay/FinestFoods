@@ -1,16 +1,16 @@
 /** @format */
 
-import antwerp from "./antwerp.json"
-import chicago from "./chicago.json"
+import jaynagar from "./jaynagar.json"
+import koramangala from "./koramangala.json"
 import toronto from "./toronto.json"
 import san_francisco from "./san_francisco.json"
 import malleshwaram from "./malleshwaram.json"
 import acharya_doctor_sarvepalli_radhakrishnan_rd from "./acharya_doctor_sarvepalli_radhakrishnan_rd.json"
 
 export const mocks = {
-	"51.219448,4.402464": antwerp,
+	"12.9307735,77.5838302": jaynagar,
 	"43.653225,-79.383186": toronto,
-	"41.878113,-87.629799": chicago,
+	"12.9351929,77.62448069999999": koramangala,
 	"37.7749295,-122.4194155": san_francisco,
 	"13.0055113,77.5692358": malleshwaram,
 	"13.0800846,77.49661979999999": acharya_doctor_sarvepalli_radhakrishnan_rd,

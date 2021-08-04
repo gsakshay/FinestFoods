@@ -14,8 +14,17 @@ import { AuthenticationContextProvider } from "./src/services/authentication/Aut
 import { Navigation } from "./src/infrastructure/navigation"
 import firebase from "firebase/app"
 import RNBootSplash from "react-native-bootsplash"
+// import GetLocation from "react-native-get-location"
 
 // Initialize Firebase
+const firebaseConfig = {
+	apiKey: "AIzaSyCn1s9ECTRNFm1eCKA9QRARmkVyEH29UPU",
+	authDomain: "finestfoods-e46ac.firebaseapp.com",
+	projectId: "finestfoods-e46ac",
+	storageBucket: "finestfoods-e46ac.appspot.com",
+	messagingSenderId: "317063880141",
+	appId: "1:317063880141:web:7ba9e7c8eff3d423f57884",
+}
 
 if (!firebase.apps.length) {
 	firebase.initializeApp(firebaseConfig)
@@ -29,14 +38,14 @@ const App = () => {
 		Lato_400Regular,
 	})
 
-	useEffect(() => {
-		setTimeout(() => {
-			RNBootSplash.hide({ fade: true })
-		}, 1000)
-		setTimeout(() => {
-			RNBootSplash.hide() // immediate
-		}, 1500)
-	}, [])
+	// useEffect(() => {
+	// 	setTimeout(() => {
+	// 		RNBootSplash.hide({ fade: true })
+	// 	}, 1000)
+	// 	setTimeout(() => {
+	// 		RNBootSplash.hide() // immediate
+	// 	}, 1500)
+	// }, [])
 
 	if (!oswaldLoaded || !latoLoaded) {
 		return null

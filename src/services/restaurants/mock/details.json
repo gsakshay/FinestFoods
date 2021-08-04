@@ -1,0 +1,90 @@
+{
+    "html_attributions": [],
+    "result": {
+        "adr_address": "<span class=\"street-address\">Acharya Doctor Sarvepalli Radhakrishnan Rd</span>, <span class=\"extended-address\">Thammenahalli Village</span>, <span class=\"locality\">Bengaluru</span>, <span class=\"region\">Karnataka</span> <span class=\"postal-code\">560090</span>, <span class=\"country-name\">India</span>",
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Acharya Doctor Sarvepalli Radhakrishnan Rd, Thammenahalli Village, Bengaluru, Karnataka 560090, India",
+        "formatted_phone_number": "094954 73737",
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "international_phone_number": "+91 94954 73737",
+        "name": "CARBAR",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": [
+                "Monday: 11:00 AM – 11:00 PM",
+                "Tuesday: 11:00 AM – 11:00 PM",
+                "Wednesday: 11:00 AM – 11:00 PM",
+                "Thursday: 11:00 AM – 11:00 PM",
+                "Friday: 11:00 AM – 11:00 PM",
+                "Saturday: 11:00 AM – 11:00 PM",
+                "Sunday: 11:00 AM – 11:00 PM"
+            ]
+        },
+        "place_id": "ChIJ-wlPGRMjrjsR6D3Tx3vSZk4",
+        "plus_code": {
+            "compound_code": "3FMV+9X Bengaluru, Karnataka, India",
+            "global_code": "7J5V3FMV+9X"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJ-wlPGRMjrjsR6D3Tx3vSZk4",
+        "reviews": [
+            {
+                "author_name": "GOUTHAM K",
+                "author_url": "https://www.google.com/maps/contrib/101676738543937325715/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy81ZVfY4AxDO_iidPHd_UIay6LV93_2xhCvVcf=s128-c0x00000000-cc-rp-mo-ba2",
+                "rating": 1,
+                "relative_time_description": "9 months ago",
+                "text": "Price is too much and place is not gud",
+                "time": 1600282393
+            },
+            {
+                "author_name": "Manu Eettickal",
+                "author_url": "https://www.google.com/maps/contrib/113063260267222265968/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gj8ER-KPlhY25M25bmnNUnLA_iZuhlimof6CfCEyA=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 5,
+                "relative_time_description": "4 months ago",
+                "text": "Good food good snacks nice atmosphere..little cleaning is required",
+                "time": 1615174282
+            },
+            {
+                "author_name": "Chiranth (Chiru)",
+                "author_url": "https://www.google.com/maps/contrib/105871846824375707086/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Ghci2cOXkpZfp4WqFFz3wAbCZqCp_7tCRBqdFZb6w=s128-c0x00000000-cc-rp-mo-ba4",
+                "rating": 2,
+                "relative_time_description": "8 months ago",
+                "text": "Place have nice arrangements and innovative too but the hygienic is the main concern. I visited this place with my friend in a midday and the place is so dirty, seats are filthy and nobody from the staff is addressing it. So we decided to move out. If the place where everybody seat is look like this. Then I wonder how will be the kitchen.",
+                "time": 1604997391
+            },
+            {
+                "author_name": "Sandy Singh",
+                "author_url": "https://www.google.com/maps/contrib/104765621047075883164/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhgZ6UIPzDxK-noFFR-Fy360LTdg3f7kn0YnEN8mw=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 5,
+                "relative_time_description": "4 months ago",
+                "text": "Lovely place to spend good time here nice food and superb service  staff",
+                "time": 1613828080
+            },
+            {
+                "author_name": "Mohammed Hamdaan",
+                "author_url": "https://www.google.com/maps/contrib/109415475810785614615/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxJCzmupXWPPNCw5Ct8yEuLQUrqE_3gkDnR4w66=s128-c0x00000000-cc-rp-mo",
+                "rating": 4,
+                "relative_time_description": "5 months ago",
+                "text": "Quite good place to hang out with friends after 5pm as it will be too hot before it !",
+                "time": 1612527666
+            }
+        ],
+        "url": "https://maps.google.com/?cid=5649434211658186216",
+        "user_ratings_total": 3077,
+        "utc_offset": 330,
+        "vicinity": "Acharya Doctor Sarvepalli Radhakrishnan Road, Thammenahalli Village, Bengaluru",
+        "website": "https://www.carbar.co.in/"
+    },
+    "status": "OK"
+}

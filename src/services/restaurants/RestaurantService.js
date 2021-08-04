@@ -5,9 +5,23 @@ import camelize from "camelize"
 
 export const restaurantsTransform = ({ results }) => {
 	const mappedResults = results.map((restaurant) => {
-		restaurant.photos = restaurant.photos.map(
-			(p) => mockImages[Math.floor(Math.random() * mockImages.length)]
-		)
+		return {
+			...restaurant,
+			address: restaurant.vicinity,
+			isOpen: restaurant.opening_hours && restaurant.opening_hours.open_now,
+			isClosedTemporarily: restaurant.business_status === "CLOSED_TEMPORARILY",
+		}
+	})
+	return camelize(mappedResults)
+}
+
+export const restaurantsTransform = ({ results }) => {
+	const mappedResults = results.map((restaurant) => {
+		if (!restaurant.photos) {
+			restaurant.photos = restaurant.photos.map(
+				(p) => mockImages[Math.floor(Math.random() * mockImages.length)]
+			)
+		}
 
 		return {
 			...restaurant,

@@ -1,0 +1,889 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDC-s8guAoSCIjzBP9e3NN4hwnLByX7Tn5HsxKG8kSlwLoL49L7nHVFVCMfdmg1k2vJFmSSyQXueCxLbLjafyU97MvXSn5y1h_dgnHOAKbhHJfJldaUCsP5qgOUE5fJvxnutc2ceBpfz1G8QckgoBbDdLbH3qCMxVTGL73uYmt-DGk37qnrKA2K6URtp45btznV1R1lHhxQ_SG_suiaomeW89N_2Dikpi73g-lEAlYypfyBk3Ei3a3bE9Y5eE2va_Btz84C9p0jizZe7KkMAN_aE2LT6vTiZsBakXP-TFtrCmsU5jHIcW7tBC9-EZZHBXhpajezSWMN7Dltet79taxTjjHDzEGwXhCXFQR0io5yppiiG6iRcilSRaNoJuN5crqTpU-tIzhHievwKednwevhx-TMdm82ngp9aks_e51B7Tm5HWGQEwq-IVVF",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9335035,
+                    "lng": 77.615209
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9347714302915,
+                        "lng": 77.6165962302915
+                    },
+                    "southwest": {
+                        "lat": 12.9320734697085,
+                        "lng": 77.6138982697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "name": "BluPetal Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBn1L8fiejsdg1oKiTCgiQD9pLIBAFUNf17L3dc73LdeKW8Zjt7MsB0qZGU22qKwxKx3_HlRQKPQxjqpbSnUiqk_buwjq-m-SoWLTdKUF1tfJkAuTUgwO8trZQjSrvM5jWihrO1gPfcT0EDt5chZh0og8MyRvc89oM5dYlT_L5cSZlO&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJiwChxFEUrjsR4INIYD-xp6o",
+            "plus_code": {
+                "compound_code": "WJM8+C3 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM8+C3"
+            },
+            "rating": 4.1,
+            "reference": "ChIJiwChxFEUrjsR4INIYD-xp6o",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2081,
+            "vicinity": "60, Jyoti Nivas College Road, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.934434,
+                    "lng": 77.62347199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9357303302915,
+                        "lng": 77.62493358029151
+                    },
+                    "southwest": {
+                        "lat": 12.9330323697085,
+                        "lng": 77.6222356197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "name": "Enigma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uED6z7PLsQAYZN7ojToVRqGgQVFRiZbGq52MZQ8qXW1EvfA82duv0AYBRAdEb6FsK2zngtBoeUpD1y5dXzyg8dvndn_Pm_TDktKNpPFDBiB8FgnRVQAFMUtu-_2FS9aPaF8IuCXq-9cNou6USyZ20skhin9JThqeQefaL1Qx8Iy-puEm&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJY26IK1oUrjsRcAFagl9_bos",
+            "plus_code": {
+                "compound_code": "WJMF+Q9 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJMF+Q9"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJY26IK1oUrjsRcAFagl9_bos",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 878,
+            "vicinity": "No.2, 5th Block, 100 Feet Road, Koramangala, Opposite Canara Bank, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.94036,
+                    "lng": 77.62516769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9416771302915,
+                        "lng": 77.6264928802915
+                    },
+                    "southwest": {
+                        "lat": 12.9389791697085,
+                        "lng": 77.62379491970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Domino's Pizza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEByt_exzLqV5wXuvo9Nb3AnSa3yoCZWSU_8-BtkCexLKwo1Z6ymbyOOkIfC69C9KS6otmz0n4f0h2rzx4CbVdbx19F6ptUnIw_Dw5zRs_AVfO7qAGy-e1spxij_H_6IW--NL_wU2PqBAx0xOmhtFoXWKQm9VgPTY4IkIvle8aEgCYYK&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJo37LD0cUrjsRx93y69N1eyM",
+            "plus_code": {
+                "compound_code": "WJRG+43 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJRG+43"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJo37LD0cUrjsRx93y69N1eyM",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3295,
+            "vicinity": "Plot No. 897, 6th Block, 80 Feet Peropheral Road, Near Indoor Stadium, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9333248,
+                    "lng": 77.623094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9346675302915,
+                        "lng": 77.62449973029149
+                    },
+                    "southwest": {
+                        "lat": 12.9319695697085,
+                        "lng": 77.62180176970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sukh Sagar Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uECwC-slis3IJYzssmZIyt8J9uL52PzV0R9RmHdMoZDpj0X5KHigpH_29cbfrs5_kKgMXtAysbxCu6GaUMO6lmeqrZyMuWiA6MmaxCpoq1DcfdloFjxAUFGZR6mzmVdc-J0z9ihQKVra0LwFlRpCzc1bIBK8CfsxFQCkSu9a0VrovwMo&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJB79X3ZgVrjsRCa4z0gD0TA4",
+            "plus_code": {
+                "compound_code": "WJMF+86 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJMF+86"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJB79X3ZgVrjsRCa4z0gD0TA4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5710,
+            "vicinity": "100 Feet Road, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.941672,
+                    "lng": 77.621291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9430675302915,
+                        "lng": 77.6226779802915
+                    },
+                    "southwest": {
+                        "lat": 12.9403695697085,
+                        "lng": 77.61998001970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Boca Grande",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEACxYU6jUFwIggl3E0FMTwMYqAxNPYB2z62Wu-iUDJ2sNf69q6tCIMpoYpoJKJMWQNtYwcM8Fcz0G__R81iSjafcDq0sVHUvRa5maWPDfKHzSNGffe1TBaoM8iUFOla_DXIGPoUYOI_HKDjW5FjFBib92XyumdpDqRWfNPCodi_71vq&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJte0iaEYUrjsRCw5_7EqgT24",
+            "plus_code": {
+                "compound_code": "WJRC+MG Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJRC+MG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJte0iaEYUrjsRCw5_7EqgT24",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "night_club",
+                "cafe",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 413,
+            "vicinity": "606 8th Block, Near Bethany High School, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.935797,
+                    "lng": 77.614901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9371265802915,
+                        "lng": 77.61630768029151
+                    },
+                    "southwest": {
+                        "lat": 12.9344286197085,
+                        "lng": 77.61360971970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Adyar Ananda Bhavan Sweets & A2B Veg Restaurant - Koramangala",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDrWLnOoMf_UZ1FzreEdXGmnT11k927GRHupfXZKK6MtzK5NwjIlZ86XIM1Dtj0xs2YqpbMhsb3KUbn3vO706hDIPj4oqXkxQqNtgOraEat8NAREm2dPe2myp6UqUZ2j2g7ow6qJ2aHaHSujO8PnKw2pTkWp67258yw7hfc422rW1js&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJJ7VPa04UrjsRgwmD36TG_N0",
+            "plus_code": {
+                "compound_code": "WJP7+8X Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJP7+8X"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJJ7VPa04UrjsRgwmD36TG_N0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3342,
+            "vicinity": "BPCL. Petrol Bunk #344, 7th Block, 80 Feet Road, Hosur Road, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 12.932551,
+                    "lng": 77.62315869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9339225302915,
+                        "lng": 77.6244482302915
+                    },
+                    "southwest": {
+                        "lat": 12.9312245697085,
+                        "lng": 77.6217502697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "name": "Café Coffee Day",
+            "permanently_closed": true,
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEC4S8aDAQddrhR3o5v8eqfLAIqr4yfp_-ZstOEA_m0OkDWZxwvI_FoRmxQszYEzfgg7x0cI0jwtRvlUpFdyy8wZkIZatN0lv57EAbsstTYHvzqM3KvDwOO15T0mUKQmOO7D6yXrgJLc56l3VgWZ7jkqkAdc3r5vAImsOpnEVpfCNuPQ&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJ_____wMdrjsRDZ41yr3oN2U",
+            "plus_code": {
+                "compound_code": "WJMF+27 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJMF+27"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ_____wMdrjsRDZ41yr3oN2U",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 764,
+            "vicinity": "63, 100 Feet Road, KHB Block Koramangala, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9335512,
+                    "lng": 77.6151958
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9347926802915,
+                        "lng": 77.6165843802915
+                    },
+                    "southwest": {
+                        "lat": 12.9320947197085,
+                        "lng": 77.61388641970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sultans of Spice",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBF6BuHzG5GoFQo5OjM1YmCJgR0DNza5uELXSDOQK6dxtlnPPP_0nKAzIZayYT8wbE6MsHgsjU280qDsoOVtHydc4cCOzY1s9TKDOMNKcaG5Aqj1HIoZa6SAPGBoOOmNI9s5Tf3glVSWn_V4pPN6CDS3ECp4B0YRADjYVwKDB4eAn-o&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJFdJfw1EUrjsRKfEwVSPTH34",
+            "plus_code": {
+                "compound_code": "WJM8+C3 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM8+C3"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJFdJfw1EUrjsRKfEwVSPTH34",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3788,
+            "vicinity": "60, Jyoti Nivas College Road, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9348027,
+                    "lng": 77.6157096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9362413802915,
+                        "lng": 77.6171631302915
+                    },
+                    "southwest": {
+                        "lat": 12.9335434197085,
+                        "lng": 77.6144651697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Empire Restaurant Koramangala",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDZRq5xevsPRzRsTmOG2mrCYEWUue3dhlQpui0iOBagoc0xZxp5JoEJ-ECvrAPyYNOHGtKFk_ANW-3FQzcfHoEiXqc8Kat7FQdmVt8M4oQr-EpiyApHnAko3PV_nOmLdrUGETW3KmdAHT-IG4I87b26dpmz4I4RS21QXQByQtqIX_Se&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJ6esDJU4UrjsRFo0qDlJZOxY",
+            "plus_code": {
+                "compound_code": "WJM8+W7 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM8+W7"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJ6esDJU4UrjsRFo0qDlJZOxY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18494,
+            "vicinity": "near Jyoti Nivas College Road, Plot No. 103 1st Cross Rd, near Jyoti Nivas College Road, Industrial Area, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9344373,
+                    "lng": 77.6160136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9358232802915,
+                        "lng": 77.61750163029151
+                    },
+                    "southwest": {
+                        "lat": 12.9331253197085,
+                        "lng": 77.61480366970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "The Black Pearl",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uECEeIcgR4LZ9XQR8455ASqe6RwX-HWC3kosNtMzuOcLv_e3CQXROKRqeFGQlPdKySHjK4mOQyxFAgarRWLOFuuk4lzh725vbBneqiGszwdVlZdqKJXIQZ4zr2jj49iGuE59KRP7MxvnahlBn6kUtS8YPVchdStMDCtuS7R776CrMy3Q&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJjzdGKk4UrjsRKqnBh8iwPYQ",
+            "plus_code": {
+                "compound_code": "WJM8+QC Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM8+QC"
+            },
+            "price_level": 3,
+            "rating": 4,
+            "reference": "ChIJjzdGKk4UrjsRKqnBh8iwPYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17033,
+            "vicinity": "Vikas Tech Park, 105, 4th Floor, Jyoti Nivas College Road, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9345059,
+                    "lng": 77.6130398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9359805802915,
+                        "lng": 77.6144714802915
+                    },
+                    "southwest": {
+                        "lat": 12.9332826197085,
+                        "lng": 77.61177351970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Gramin",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEC7h5vm4iOYi_FMKm56LOtG5srI8WUp1kmR-ZqjxaPyrWkiZ9dcvVHdFRD_l_TJA7mtwbL8A1KO411GjckZaKGTJHbONjCCkv2SMS0w_g6Es1vubnIjR_9CM8F3IuawSPN8yxignD_VylbaCpY9q5VF0YI3cRPdsbfaLnUKNUpQKrgJ&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJdQAA0E0UrjsRHtoB5yuQoIg",
+            "plus_code": {
+                "compound_code": "WJM7+R6 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM7+R6"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJdQAA0E0UrjsRHtoB5yuQoIg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8273,
+            "vicinity": "Ground Floor Siddam Setty Complex Ganapathi Temple Road near Forum Mall, 7th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9346256,
+                    "lng": 77.61628189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9359297802915,
+                        "lng": 77.6175873802915
+                    },
+                    "southwest": {
+                        "lat": 12.9332318197085,
+                        "lng": 77.61488941970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Meghana Foods",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEA-Ycmo3ZdnNxOW6T-3zMr1l1e_OjvnZY3S0GbNKnuZPPeRLxfOLr0rma2jyoHw1B0c-mg2_NUCCGdqn4VYTNn_XBNrZE7C_XBkuf0TupGOt5vnlOETt9O5ZIEx7ztAzLRm8gbiaVENwyP20HdFUCpVO251b4BDDPX_cCUYePAbghdY&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJCa2FK04UrjsRmBiq9ethY9s",
+            "plus_code": {
+                "compound_code": "WJM8+VG Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM8+VG"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJCa2FK04UrjsRmBiq9ethY9s",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13651,
+            "vicinity": "near Jyoti Nivas College, No. 124 1st Cross Road, near Jyoti Nivas College, KHB Colony, 5th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9341459,
+                    "lng": 77.61562839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9354977802915,
+                        "lng": 77.6169758802915
+                    },
+                    "southwest": {
+                        "lat": 12.9327998197085,
+                        "lng": 77.61427791970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Momo Hut",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBmfGKbjDn6fLfN2ztrS-i83JDhGA9SaOrUjSJgvusNt-cwQlT8c-pk8-1-WhXTMMlnhFtUqsUK1IbB3471SUzt5WWOHbYCSKjSCvtk0E_3PYr-TNVz-z18jc-sfnGjLUZQgh2xdMLDRvSBwdJFPpuKkz4W1a0Vx5dIh1Gh66FyI2Qi&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJj7sm2FEUrjsRgGUg1QYQ-sY",
+            "plus_code": {
+                "compound_code": "WJM8+M7 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM8+M7"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJj7sm2FEUrjsRgGUg1QYQ-sY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 373,
+            "vicinity": "4th B Cross Road, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9286053,
+                    "lng": 77.6241129
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9299545802915,
+                        "lng": 77.6254610802915
+                    },
+                    "southwest": {
+                        "lat": 12.9272566197085,
+                        "lng": 77.62276311970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "शेर वुड",
+            "place_id": "ChIJlf5IWlkUrjsRKP7S0IjjfiI",
+            "reference": "ChIJlf5IWlkUrjsRKP7S0IjjfiI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "India",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-600x899.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9310804,
+                    "lng": 77.63257020000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9324522802915,
+                        "lng": 77.63403343029151
+                    },
+                    "southwest": {
+                        "lat": 12.9297543197085,
+                        "lng": 77.6313354697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "name": "Café Coffee Day",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDy3D84_AG14l3WuZP7XYV3uPgLWQuYhFR1hWGGFofVSi1nstEcMlVwPspWEbmcyq9S-cjIV3YJ5uyZsdTJmVLu6WZnl8JTNhImpjDKdNvCIvFrPItKk5HM1kJ9nB7Wa_DuTO9cOFx22PG-94hY_9PUOVnrO65fvEJb1gljCBEG5vke&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJb61gLmcUrjsRyLoGkQz8dWs",
+            "plus_code": {
+                "compound_code": "WJJM+C2 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJJM+C2"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJb61gLmcUrjsRyLoGkQz8dWs",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 545,
+            "vicinity": "777, Jk Ashwath Lakshmi Heritage, 4Th Block Koramangala, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9363552,
+                    "lng": 77.6148704
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9377327302915,
+                        "lng": 77.6162542302915
+                    },
+                    "southwest": {
+                        "lat": 12.9350347697085,
+                        "lng": 77.61355626970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "The Juke Box",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBe1l-uWYyiptNNIf3ihsFc1CaJs6R0FVLDsC7sFLIRI59Y0OnxOy8j5hlZqCr4wgkPlxzlgo7M-aBXbyj-fJvoET1CzTZydID2SsnjMmgYy6q3HayWKlgPtZjoHSvpgI7zV64EQTxYO0_lHCdIvWmjlS02_7CjFDeRFjktfm3BTi6Z&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJRePVZ04UrjsRYyvqC05BQj0",
+            "plus_code": {
+                "compound_code": "WJP7+GW Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJP7+GW"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJRePVZ04UrjsRYyvqC05BQj0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 387,
+            "vicinity": "359, 1st Main Road, 7th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9418203,
+                    "lng": 77.62159559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9431310802915,
+                        "lng": 77.6229766302915
+                    },
+                    "southwest": {
+                        "lat": 12.9404331197085,
+                        "lng": 77.6202786697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sagar Fast Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAYbc6HPs6btqTx32gtrWGg8Hy91eZ5Cg88ZSes50sZyjaxAB327wwuVGBUdK9j-GQFLvK-YyEk9gCtMp5pJ9tqpTMZBQHjFXUXNdjAvvM5FLi4hnXS4saF2zakdSwRz-lFCXFCO-XFtu1-F6hpC5jk9J76l7-0QYYI0iwqGnsn7Eyh&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJSVvMXUYUrjsRs69vhCTmo0Q",
+            "plus_code": {
+                "compound_code": "WJRC+PJ Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJRC+PJ"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJSVvMXUYUrjsRs69vhCTmo0Q",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2175,
+            "vicinity": "Ganapathi Temple Road, Nanjappa Reddy Layout, Adugodi, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9362785,
+                    "lng": 77.6214528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9375471802915,
+                        "lng": 77.62275478029152
+                    },
+                    "southwest": {
+                        "lat": 12.9348492197085,
+                        "lng": 77.62005681970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "China Pearl",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uECbwspidT4lySpJZbBS-Qu_3JHid96w8HDswgTE71pLxHnFXWXB6kEeH8bBDz2Bgj-Dcs6CS06G3qrajM4z30wqu23IhVz77NO8o8bRdSd_rNIP_o9dIi2IuLXJLByxQqytCRKpHnOEulmj8NyUoQEOIU6R5FR4M1Bt7fIF9o2aFmnZ&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJgwUaGEUUrjsRRTdbOTMrzco",
+            "plus_code": {
+                "compound_code": "WJPC+GH Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJPC+GH"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJgwUaGEUUrjsRRTdbOTMrzco",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3694,
+            "vicinity": "53/1, 5th Cross, 60 Feet Road, 6th Block, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9342618,
+                    "lng": 77.6109065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9355908302915,
+                        "lng": 77.6123065802915
+                    },
+                    "southwest": {
+                        "lat": 12.9328928697085,
+                        "lng": 77.6096086197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Pizza Hut",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAdyO2RytWKMssHXA274_z9yc5M-QnYnXAjhf-Ov4eoLvT6M3GeDh8uQfXDOGxWbJO96a1UIarRRj3yqTUUUxsI6ZMOCttzLH5tmD_XH7BZAD9o_DT9u2Gp1SvuNdRrD33fm2tyPwyHFOvHCHXc6XUurOdxW8hKVp87hNNwLXqKTOUP&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJ6a8wkE0UrjsR6elyWkwGHcA",
+            "plus_code": {
+                "compound_code": "WJM6+P9 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJM6+P9"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ6a8wkE0UrjsR6elyWkwGHcA",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2772,
+            "vicinity": "21, Hosur Road,Forum mall, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9371215,
+                    "lng": 77.61951230000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9385154302915,
+                        "lng": 77.62088878029152
+                    },
+                    "southwest": {
+                        "lat": 12.93581746970849,
+                        "lng": 77.6181908197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "name": "Anand Sweets & Savouries",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uECB5hfLDbYdh16ysPnwdt6GWLZw-xiHf_d0iRpFe3UDVKzWbcQTVVGg3HEgXJVjWYcWNhze24zcntcBKFQAzZQyZkmqg_VEQDw32aacnsQe7hXzj7wfHqOp4yVCfmVX1wghNrzuU2VGrGt7xAXunUjjY9i4nSBvlmdFaekhFNZ6Uex6&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJ77vvfkUUrjsRitclMW-11WA",
+            "plus_code": {
+                "compound_code": "WJP9+RR Bengaluru, Karnataka, India",
+                "global_code": "7J4VWJP9+RR"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ77vvfkUUrjsRitclMW-11WA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4300,
+            "vicinity": "143/B, 60 Feet Road, KHB Block Koramangala, 5th Block, Koramangala, Bengaluru"
+        }
+    ],
+    "status": "OK"
+}

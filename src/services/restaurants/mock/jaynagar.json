@@ -1,0 +1,886 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEApF7oo36YCOdrL2oNW2SPfrDTf6QUc7Q9R_eqAelfwDWE4Yvy2EyeLc5IVWHaT8OpaKxUzEmImJVyyRkk5wphfTyQx1BKwAhXOWVBw3TTstWDdn3bxtzh6QoH7nKXxALyvREPWWF7QHcPpZEeXUyWfN3PnhUUx1MgXSb4Y_nZdonC5nYSuIk5oDAPhjZZroAVpLHFfczgj8Mzj6_mY6ar67VwUCyJw9vLMWbe6K57qT69EhPZKgzIG3lmuKfu2WsWmgTSJV7MhIm2XX1f_8-naT41-njYNRJc4Mz87i_KjtJPbahlbqRriqaR18DqkFStfU7CsvC_aEfChef8x1KaW4WlWaUg2J5sXuMdTgrsB88QlfTjAEcbvnwr5AtifoP-alVWsMU0ENGA0vinO_TH5-mLaBYGMwOQg3f-GavAoo2lFrkvKegTiqht3",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9221131,
+                    "lng": 77.5857721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9234610802915,
+                        "lng": 77.58717953029151
+                    },
+                    "southwest": {
+                        "lat": 12.9207631197085,
+                        "lng": 77.5844815697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Domino's Pizza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBEU5vzfzPKCNvOaJ75chZZNTRGB3mprN7NrsY0fhwt3dvufMprF97_c6brGb_URbWf70N7e_FrEqa4eBVJcD3k1pGr_DteW6sagCT7o_hCG4I3_6iUKDkbLA-dwusLe_b6UNEr9nYlnkldriHqrknBWyG5b4DaMMJN3qTaDcwa8Z0c&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJi0ByPqAVrjsRREdcTQGO-6I",
+            "plus_code": {
+                "compound_code": "WHCP+R8 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHCP+R8"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJi0ByPqAVrjsRREdcTQGO-6I",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5894,
+            "vicinity": "New No 36 Old No 9, 5th block, 11th Main Road, 4th T Block East, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9285754,
+                    "lng": 77.5818571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9299451802915,
+                        "lng": 77.58324668029151
+                    },
+                    "southwest": {
+                        "lat": 12.9272472197085,
+                        "lng": 77.58054871970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Maiyas Beverages And Foods Private Limited",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAdKcLeHAfoSKcGNmgBUiaYi6W9zSDgU9ov3RyXTjyOFMJkFZyqWKC5vDDl5bVrT1_pUXFg8sAvo2VCkthP8ZaGOtMIRjH81XbjHfhIQLAJF2OEktps6VjGJUWqMXiata6nPlNedIf_ByGI8m-JG0ZotJajMXSIom2gkGHmO4pC5_U-&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJxQYt6pgVrjsRtjh7cWNYpSA",
+            "plus_code": {
+                "compound_code": "WHHJ+CP Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHJ+CP"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJxQYt6pgVrjsRtjh7cWNYpSA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13533,
+            "vicinity": "459, 30, 30th Cross Road, 4th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9332361,
+                    "lng": 77.58329719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9346513302915,
+                        "lng": 77.58471433029149
+                    },
+                    "southwest": {
+                        "lat": 12.9319533697085,
+                        "lng": 77.58201636970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Gufha Restaurant, Jayanagar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAb28hXNn44U4xKQxZrb7MKq_pX91CplsRMKn_cERAtj7w8ZjNeMHZEc9-qXW4JEwM7PzqIaYWTSLgf7B8eK2Hmcpuzm8HNys3TrHEDkJdHe_jWaDIjUWY2Iq9e6M0DH0YHgKUluSLG5agli22rZJc02I43LInG8Lx-LZjSqozi34Uj&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJtWPujJcVrjsRQCh66TorJPU",
+            "plus_code": {
+                "compound_code": "WHMM+78 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHMM+78"
+            },
+            "price_level": 3,
+            "rating": 4,
+            "reference": "ChIJtWPujJcVrjsRQCh66TorJPU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4655,
+            "vicinity": "79/8, Diagonal Road, Jayanagar East, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.933034,
+                    "lng": 77.5842157
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9343829802915,
+                        "lng": 77.58556468029151
+                    },
+                    "southwest": {
+                        "lat": 12.9316850197085,
+                        "lng": 77.5828667197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Nagarjuna Chimney",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBK_9o9yHobKyDPQB0a9TATmxLqbOeoNJqaGYZHQEiCAk7keiIVwa9CMNUB3lnGFg0Gde2J4EVmnANqdcYYSX_p7pUzX5lP0KvqzoQ8Kq48u6YsMUIV2OuA1nGGRTicRfGCA8CLpqPLLQQXKQ0waEiu-nTJ7DGoFjJwKYHp205ttHyI&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJZ6jEUpcVrjsRpTM0rrRdZrk",
+            "plus_code": {
+                "compound_code": "WHMM+6M Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHMM+6M"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJZ6jEUpcVrjsRpTM0rrRdZrk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7780,
+            "vicinity": "No. 21, 22, 22nd Cross Road, Jayanagar East, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.926131,
+                    "lng": 77.584532
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9275646302915,
+                        "lng": 77.5858769302915
+                    },
+                    "southwest": {
+                        "lat": 12.9248666697085,
+                        "lng": 77.5831789697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Meghana Foods",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDT8Xvny6JOaZMZaNztXJ_OZVEJ-bpqCJVIm-sVzDLm32THh55IaKKh-zAaicZ4XvxTjRi4HgH52wISB9e8HgVLLfKYVztyv2MHwe_b6Wtb9ymhiNqH4IXctFJ8LSKcFomAoLqBY_DdZe9NHrMcf7qWNCopXAftVLTHb6rgmXsG6hmM&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJDZDp46EVrjsRgObcqyJbfyA",
+            "plus_code": {
+                "compound_code": "WHGM+FR Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHGM+FR"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJDZDp46EVrjsRgObcqyJbfyA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22381,
+            "vicinity": "52, 1st Floor, near Cafe Coffee Day, 33rd Cross Road, 4th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9330537,
+                    "lng": 77.5850349
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9343382302915,
+                        "lng": 77.58635758029149
+                    },
+                    "southwest": {
+                        "lat": 12.9316402697085,
+                        "lng": 77.58365961970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Subz",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEC9sxajaEtFuuEabaI3IRZQUSiwS9ztXdAgsLkUb0B9ub5KBFjY9CQ13bKDZ4eRdInw2sEC0fOTMskDFqpNX_gLa-v9cnJXzfRrVitGrvYmAQZCerYcHDeh1mm1a2W475flN_IEUn9_FoYDee3a_gQIBFY1Je_p1OtPwrEHhanMP0_A&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJpYCLVL0VrjsRdbBETJAeyLQ",
+            "plus_code": {
+                "compound_code": "WHMP+62 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHMP+62"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJpYCLVL0VrjsRdbBETJAeyLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4858,
+            "vicinity": "Cosmopolitan Club, Ground Floor, 22nd Cross Road, Jayanagar East, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9252233,
+                    "lng": 77.5767852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9265308302915,
+                        "lng": 77.5780935302915
+                    },
+                    "southwest": {
+                        "lat": 12.9238328697085,
+                        "lng": 77.57539556970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Jalpaan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDCwF2XH0e9Qin3AO9cqUfXKYq6LHmcoIdEGT9DnxvZbgvmLrj-w2bKkMGIBMcptZ-0WCLKL3clEJUJDlwKkeU5HSwMLyAU71RM-RAbKdYRr9L9L7HvO8f08cMWtm_yun8Eiu7sujHtIRIS_F0TmLuhCuUsBsvguGRbB7UXCJUxY_AT&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJzwyvUZwVrjsR198PqqvBZPs",
+            "plus_code": {
+                "compound_code": "WHGG+3P Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHGG+3P"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJzwyvUZwVrjsR198PqqvBZPs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4007,
+            "vicinity": "opp. Nethradhama Eye Hospital, No. 539-40, Kanakapura Main Rd , Jaynagar, 7th Block, 9th Cross, opp. Nethradhama Eye Hospital, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9331181,
+                    "lng": 77.5850571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9343706802915,
+                        "lng": 77.5863424802915
+                    },
+                    "southwest": {
+                        "lat": 12.9316727197085,
+                        "lng": 77.58364451970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Chutney Chang",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDm6WdNPb-JGxticC2Cf4GfeKyXqpFD5Sojzn1CiidGvsH8jz_O0MOAE-CiMpwpUhcYeErdWKDkzPtehZ6UkjnUznTnfjsbsvI43tcHImryWP6hEgL7H_7ug0ymytTUKOZYD7P57u0k62uJS6XjXBfFm8mhmN9-IjsMbVRlDqE264vE&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJdUJMVL0VrjsRgaLfiMvMq5E",
+            "plus_code": {
+                "compound_code": "WHMP+62 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHMP+62"
+            },
+            "price_level": 3,
+            "rating": 4,
+            "reference": "ChIJdUJMVL0VrjsRgaLfiMvMq5E",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2567,
+            "vicinity": "Cosmopolitan Club, 22nd Cross Road, Jayanagar East, Jaya Nagar 1st Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.919975,
+                    "lng": 77.58347599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9213241302915,
+                        "lng": 77.5849131802915
+                    },
+                    "southwest": {
+                        "lat": 12.9186261697085,
+                        "lng": 77.58221521970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Mainland China",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAEnJpa6KF8X67JDjlBQTqbiCj6pj8QS1XTNSmULSlH8_05ZtnwmmFanozTzlwPLiWJfOWQudRwFDEYMiiTaoaTEtC4nneq7O8VDSYCN2usKHBsaEg5EO5cBDGCN8Ye5Cj001OZOFtcixX4UfpHgUJYwzd7J01uZ4be5VCwNy5IEHHL&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJUQJXPnUVrjsRvqx6_Q1pYuM",
+            "plus_code": {
+                "compound_code": "WH9M+X9 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWH9M+X9"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJUQJXPnUVrjsRvqx6_Q1pYuM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2703,
+            "vicinity": "No. 233, Baron's Inn, 9th Main Road, 5th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.926821,
+                    "lng": 77.586422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9281854802915,
+                        "lng": 77.5877058302915
+                    },
+                    "southwest": {
+                        "lat": 12.9254875197085,
+                        "lng": 77.58500786970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Parivar Multi Cuisine Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAcQaF66thQVqODkOzDGUHVZp4Bytf_5IwCfbtaMLAOTAhgk2gdsZpsr4vwtEq9TQGPiCf5e48si-5Evc3tpvXCV28Lj7B98q7JHseizJ5phZP7NBWE4GllfNlFSiU_LiNWpIhxCeGkiWbhKqFrm7qRI8BsiGz7f8ci04Igm-YWrMuC&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJ8wGTjKEVrjsRnDr9wz4F1GA",
+            "plus_code": {
+                "compound_code": "WHGP+PH Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHGP+PH"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ8wGTjKEVrjsRnDr9wz4F1GA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 997,
+            "vicinity": "1st floor, 150/A, 11th Main, opp. Kala Mandir & KFC, Aurobindo Marg, 4th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9285322,
+                    "lng": 77.58246179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9299460802915,
+                        "lng": 77.5838131802915
+                    },
+                    "southwest": {
+                        "lat": 12.9272481197085,
+                        "lng": 77.58111521970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Kollapuri's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBbIi8T0O3gT5CUQ_TTK6p6bK8G0CJhpniWhI3ujQPDgFL8c4jCn3wixY06ytgZfvp3nqxSby8TPwX3nA085hOZUVdWAvy4uI7GdhXbw2KTM93uw8ZLcmX4Bkz1bnFfDcOsGrd6qU8w5QW_13pvbbQa30pQBC8_9d6gVpwd3ONjfrxn&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJxQYt6pgVrjsRkUIb2W0NdFM",
+            "plus_code": {
+                "compound_code": "WHHJ+CX Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHJ+CX"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJxQYt6pgVrjsRkUIb2W0NdFM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 463,
+            "vicinity": "429/31, 1st Floor, 30th Cross, Jayanagar, $th Block, Upstairs Union Bank of India, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9285418,
+                    "lng": 77.5826932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9299487302915,
+                        "lng": 77.5840490802915
+                    },
+                    "southwest": {
+                        "lat": 12.9272507697085,
+                        "lng": 77.58135111970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sukhsagar Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEAmQJJjVNE5_bMpyOub1HN9IjWl2YgmGp1rtZbN7LYTkKokqTtV5jg3j97HVnIRTK-PFM6pvWZljhMf5zr0egUlrhgqm6LTEIQmHjGZKSTvg1YSWtnHkeCH3U1EpQwyd5DAydMDktUfem9JRBPDcvlMLzp-aCzzBGVjdertqoLLKLbN&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJTYFudaIVrjsRp6CaaQ04VDA",
+            "plus_code": {
+                "compound_code": "WHHM+C3 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHM+C3"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJTYFudaIVrjsRp6CaaQ04VDA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1130,
+            "vicinity": "400, 8th B Main Road, 4th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.930954,
+                    "lng": 77.582908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9322433802915,
+                        "lng": 77.58425503029152
+                    },
+                    "southwest": {
+                        "lat": 12.9295454197085,
+                        "lng": 77.58155706970851
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Nobel House Chinese & Thai Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBHpOLyBRP1A_-veIxWZJRgFnqU2pi6ZqWM12jmHCeQA7wNTOvTu9bnUGHI9eeud5Ou5vr8scFlW0-1MiBMOe4KP7-xYXWZNnTygWGIwhZu1C3Xc0t2vRY928qhFGQeMmV_CUJEmK0o6F_Ty7HaDe5pDhrS7gjc-eewFIjvIE8eqJa8&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJgXx_RpgVrjsRPwfXVlL1VxE",
+            "plus_code": {
+                "compound_code": "WHJM+95 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHJM+95"
+            },
+            "rating": 3.8,
+            "reference": "ChIJgXx_RpgVrjsRPwfXVlL1VxE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "next to Pizza Hut, No. 197/ F, 27th Cross, 8th B Main Road, next to Pizza Hut, 3rd Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9306733,
+                    "lng": 77.58110309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9320835802915,
+                        "lng": 77.5824152802915
+                    },
+                    "southwest": {
+                        "lat": 12.9293856197085,
+                        "lng": 77.5797173197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "name": "Anand Sweets and Savouries",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBed5yTGC2PgcXBrPVGceBoJcqztWqoYJTJS8-41QrtYAdj6vfUH16NJO03i0JK6RliAeodhn6HetaWgx0SSaUdEWNP3Dq090o1SSLzIQNyKU5ONpvApHK7GOjJZ4Eps34lqpa3b2JCx7nF3AV5G-o5_Vx51TCEgZC4AlIbS4DVAsI-&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJAQAAAKQVrjsRERYKHHB8YvY",
+            "plus_code": {
+                "compound_code": "WHJJ+7C Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHJJ+7C"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAQAAAKQVrjsRERYKHHB8YvY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1856,
+            "vicinity": "near Hotel Nandini, Door No: 1A/39, Shop No: 4 & 5, near Hotel Nandini, 27th Cross Road, Jaya Nagar 1st Block, 4th Block, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9261494,
+                    "lng": 77.5846371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9274809302915,
+                        "lng": 77.58612593029152
+                    },
+                    "southwest": {
+                        "lat": 12.9247829697085,
+                        "lng": 77.5834279697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "La Casa",
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uECtRsPfcIGv-j92KbGuPNN_PqeM909CF5HnvIeUr3_rL-OM4iWRDngQ4pPRtyprQ6DJ6gjxRrBEwIc8zUwaeSovqVlWQcyGWIcXrjkM44U-D5T-d6vqsbOZz3CrW1jy4SqI2zqSeOzqPGLZV2TCo_5Kz4wi_YFzOmBLBoWVQG0HDzVz&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJF_jGcwoVrjsRA3QX8aT1cPs",
+            "plus_code": {
+                "compound_code": "WHGM+FV Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHGM+FV"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJF_jGcwoVrjsRA3QX8aT1cPs",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2397,
+            "vicinity": "60, 10th Main Road, Chintal Plaza, 33rd Cross, 4th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.927848,
+                    "lng": 77.586081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9292235802915,
+                        "lng": 77.5875447302915
+                    },
+                    "southwest": {
+                        "lat": 12.9265256197085,
+                        "lng": 77.58484676970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Uttar Dakshin",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJfUg6GKIVrjsRkGCn9c3JZrM",
+            "plus_code": {
+                "compound_code": "WHHP+4C Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHP+4C"
+            },
+            "rating": 4,
+            "reference": "ChIJfUg6GKIVrjsRkGCn9c3JZrM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "66, Aurobindo Marg, 4th T Block East, 4th Block, Jayanagar, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-600x899.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9280476,
+                    "lng": 77.5852457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9293813802915,
+                        "lng": 77.5866534802915
+                    },
+                    "southwest": {
+                        "lat": 12.9266834197085,
+                        "lng": 77.5839555197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Ugadi Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEC85oiJa9-9UH4LkZhz3Ou52bNt2FTZgmNaygUSy9MFG9UcmNkxFuAm4qEz3sVPIb7d6jclzwRP0Ye-HvIO13tOPL57211dwsKkqchLqRf1hX8G-JZlkXVGQxfGbM4ZeXRQ_B21yoYAC0Yq5MRu_xj_dfgmItS99SlDB_Qm9964nV7y&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJL-jNCKIVrjsRE52XlpqZ3WQ",
+            "plus_code": {
+                "compound_code": "WHHP+63 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHP+63"
+            },
+            "price_level": 2,
+            "rating": 3.5,
+            "reference": "ChIJL-jNCKIVrjsRE52XlpqZ3WQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 463,
+            "vicinity": "609, 10th A Main Road, 4th Block, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9288091,
+                    "lng": 77.5858992
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9302721302915,
+                        "lng": 77.5873385302915
+                    },
+                    "southwest": {
+                        "lat": 12.9275741697085,
+                        "lng": 77.5846405697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Cool Joint",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEBnoWa4PxEW7OyYR9b_m9Ys7ZYakKmgvGx8IfOGS7Fuzew7_g0ZiTfaEzAyaRdjioDgZdZr93eqv0_BlVNYiTn3T99lAT_r9_zrgcLi1OZtjww8HCmdtz1MnaEwbppQcnTWPJ6KMcDniIgqrMSdiciDTxrOyC7mPBPPH_BsyogaT9gT&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJm1LybKIVrjsRwxfnAcgY6xs",
+            "plus_code": {
+                "compound_code": "WHHP+G9 Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHP+G9"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJm1LybKIVrjsRwxfnAcgY6xs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 16615,
+            "vicinity": "70 11th Main, 30th Cross Road, Geetha Colony, 4th T Block East, Jayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9298838,
+                    "lng": 77.5842397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9312382302915,
+                        "lng": 77.5853856302915
+                    },
+                    "southwest": {
+                        "lat": 12.9285402697085,
+                        "lng": 77.58268766970848
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "TADKA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAQDAh5gVrjsRTmy5gcDuBtY",
+            "plus_code": {
+                "compound_code": "WHHM+XM Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHHM+XM"
+            },
+            "rating": 3.5,
+            "reference": "ChIJAQDAh5gVrjsRTmy5gcDuBtY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "2nd Floor, Jayanagar Shopping Complex, 4th Block, Jayanagar, Bengaluru",
+            "photos": [
+                "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-600x899.jpg"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9388237,
+                    "lng": 77.57991190000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9401721302915,
+                        "lng": 77.58130893029151
+                    },
+                    "southwest": {
+                        "lat": 12.9374741697085,
+                        "lng": 77.57861096970849
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "New Shanti Sagar Hotel ನ್ಯೂ ಶಾಂತಿಸಾಗರ್",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=Aap_uEDv9ooSXSUL4PoAw_LlPGFm3OoKFYJHzyHagkCWeQQwT5AqvTGAyZaqzG1wr5TJ9H03jwY7OheAI2_tjSim_ErCylBT3AYXAfJ1xIU3i6x4zeatB3sv6OycXsxlCJ7997Yi9LlXI0utWOrZZUA7BYEmbtIJHGaiASqasq01Tp6_QlTN&key=AIzaSyAZlofmTD3O9sdcQoi3WY_WzOEPa3hLcJY"
+            ],
+            "place_id": "ChIJoym7ApQVrjsRvGrcFI4e39Y",
+            "plus_code": {
+                "compound_code": "WHQH+GX Bengaluru, Karnataka, India",
+                "global_code": "7J4VWHQH+GX"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJoym7ApQVrjsRvGrcFI4e39Y",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1271,
+            "vicinity": "22/2, Rashtriya Vidyalaya Road, 2nd Block, Basavanagudi, Bengaluru"
+        }
+    ],
+    "status": "OK"
+}

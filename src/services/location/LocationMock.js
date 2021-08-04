@@ -1,25 +1,39 @@
 /** @format */
 
 export const locations = {
-	antwerp: {
+	jaynagar: {
 		results: [
 			{
+				formatted_address: "Jayanagar, Bengaluru, Karnataka, India",
 				geometry: {
-					location: {
-						lng: 4.402464,
-						lat: 51.219448,
-					},
-					viewport: {
+					bounds: {
 						northeast: {
-							lat: 51.2145994302915,
-							lng: 4.418074130291502,
+							lat: 12.9462039,
+							lng: 77.600701,
 						},
 						southwest: {
-							lat: 51.2119014697085,
-							lng: 4.415376169708497,
+							lat: 12.9122207,
+							lng: 77.57360899999999,
+						},
+					},
+					location: {
+						lat: 12.9307735,
+						lng: 77.5838302,
+					},
+					location_type: "APPROXIMATE",
+					viewport: {
+						northeast: {
+							lat: 12.9462039,
+							lng: 77.600701,
+						},
+						southwest: {
+							lat: 12.9122207,
+							lng: 77.57360899999999,
 						},
 					},
 				},
+				place_id: "ChIJ2ddlZ5gVrjsRh1BOAaf-ors",
+				types: ["political", "sublocality", "sublocality_level_1"],
 			},
 		],
 	},
@@ -37,25 +51,39 @@ export const locations = {
 		],
 		status: "OK",
 	},
-	chicago: {
+	koramangala: {
 		results: [
 			{
+				formatted_address: "Koramangala, Bengaluru, Karnataka, India",
 				geometry: {
-					location: {
-						lng: -87.629799,
-						lat: 41.878113,
-					},
-					viewport: {
+					bounds: {
 						northeast: {
-							lat: 41.88758823029149,
-							lng: -87.6194830697085,
+							lat: 12.949918,
+							lng: 77.6541309,
 						},
 						southwest: {
-							lat: 41.88489026970849,
-							lng: -87.6221810302915,
+							lat: 12.9209839,
+							lng: 77.610254,
+						},
+					},
+					location: {
+						lat: 12.9351929,
+						lng: 77.62448069999999,
+					},
+					location_type: "APPROXIMATE",
+					viewport: {
+						northeast: {
+							lat: 12.949918,
+							lng: 77.6541309,
+						},
+						southwest: {
+							lat: 12.9209839,
+							lng: 77.610254,
 						},
 					},
 				},
+				place_id: "ChIJLfyY2E4UrjsRVq4AjI7zgRY",
+				types: ["political", "sublocality", "sublocality_level_1"],
 			},
 		],
 	},

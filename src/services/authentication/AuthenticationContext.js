@@ -3,6 +3,7 @@
 import React, { useState, createContext, useEffect } from "react"
 import { loginRequest } from "./AuthenticationService"
 import * as firebase from "firebase"
+import RNBootSplash from "react-native-bootsplash"
 
 export const AuthenticationContext = createContext()
 
@@ -14,8 +15,12 @@ export const AuthenticationContextProvider = ({ children }) => {
 	const clearError = () => setError(null)
 
 	firebase.auth().onAuthStateChanged((usr) => {
+		setTimeout(() => {
+			RNBootSplash.hide() // immediate
+		}, 2000)
 		if (usr) {
 			setUser(usr)
+			clearError()
 			setIsLoading(false)
 		} else {
 			setIsLoading(false)
@@ -29,6 +34,7 @@ export const AuthenticationContextProvider = ({ children }) => {
 			if (user) {
 				setUser(user)
 				setIsLoading(false)
+				clearError()
 			}
 		} catch (e) {
 			setError(e.toString())
@@ -47,6 +53,7 @@ export const AuthenticationContextProvider = ({ children }) => {
 					.auth()
 					.createUserWithEmailAndPassword(email, password)
 				setUser(user)
+				clearError()
 				setIsLoading(false)
 			} catch (e) {
 				setError(e.toString())
@@ -59,7 +66,7 @@ export const AuthenticationContextProvider = ({ children }) => {
 		try {
 			const user = await firebase.auth().signOut()
 			setUser(user)
-			setError(null)
+			clearError()
 		} catch (e) {
 			console.log(e)
 		}
